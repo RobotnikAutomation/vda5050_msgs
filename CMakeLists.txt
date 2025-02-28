@@ -29,6 +29,9 @@ add_message_files(
     Error.msg
     Errors.msg
     ErrorReference.msg
+    ExtendedFactsheet.msg
+    ExtendedState.msg
+    ExtendedVisualization.msg
     Factsheet.msg
     InstantAction.msg
     Info.msg
