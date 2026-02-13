@@ -5,7 +5,7 @@ float64 y                                         # [m] Y-position on the map in
 
 float64 theta                                     # [rad] The angular dimension
 
-float32 allowed_deviation_xy                      # Indicates how exact an AGV has to drive over a node in order for it
+float32 allowed_deviation_x_y                     # Indicates how exact an AGV has to drive over a node in order for it
                                                   # to count as traversed.
                                                   #
                                                   # If = 0: no deviation is allowed (no deviation means within the
