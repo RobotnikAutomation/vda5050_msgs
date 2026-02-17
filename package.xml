@@ -13,8 +13,8 @@
     (e.g mqtt_bridge) or to plain json or similar. 
   </description>
 
-  <maintainer email="support@robotnik.es">Robotnik Automation</maintainer>
-  <author email="info@robotnik.es">Robotnik Automation</author>
+  <maintainer email="ros-developers@robotnik.es">Robotnik Developers</maintainer>
+  <author email="ros-developers@robotnik.es">Robotnik Developers</author>
   <license>BSD</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
